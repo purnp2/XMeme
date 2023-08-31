@@ -1,0 +1,12 @@
+[
+  {
+    "name": "name001",
+    "url": "https://SomeRandomURL.com/123abc",
+    "caption": "Hello world, #Delhi, #Politics"
+  },
+  {
+    "name": "name002",
+    "url": "https://AnotherRandomURL.com/123pqr",
+    "caption": "Hello world, #Caption, #Meme"
+  }
+]
